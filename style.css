@@ -1,0 +1,32 @@
+body{
+    background-color: #37474F;
+    color: white;
+}
+.friend{
+    margin: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em; 
+    background-color: #AA3939;
+    border-radius: 1em;
+}
+.friend p{
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+    border: solid .1em white;
+}
+.friend h3{
+    margin: 1em;
+    text-transform: uppercase;
+}
+button{
+    display: block;
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    font-size: 1.5em;
+    margin: 10px auto;
+}
+h1{
+    text-align: center;
+}
